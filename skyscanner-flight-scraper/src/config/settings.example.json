@@ -1,0 +1,7 @@
+{
+  "base_url": "https://www.skyscanner.com",
+  "default_origin": "Jakarta",
+  "default_target": "London",
+  "default_depart_date": "2022-10-17",
+  "default_return_date": "2022-10-20"
+}

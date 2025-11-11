@@ -1,0 +1,7 @@
+{
+  "default_origin": "NYC",
+  "default_target": "LAX",
+  "default_depart_date": "2023-12-10",
+  "max_results": 100,
+  "output_format": "json"
+}

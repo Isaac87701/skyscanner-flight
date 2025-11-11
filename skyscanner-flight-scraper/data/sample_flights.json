@@ -1,0 +1,16 @@
+[
+  {
+    "origin": "Jakarta",
+    "target": "London",
+    "depart": "2022-10-17",
+    "return": "2022-10-20",
+    "flight_price": "$1200"
+  },
+  {
+    "origin": "Jakarta",
+    "target": "Paris",
+    "depart": "2022-10-01",
+    "return": "2022-10-03",
+    "flight_price": "$900"
+  }
+]

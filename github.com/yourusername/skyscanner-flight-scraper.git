@@ -1,0 +1,6 @@
+Install the dependencies:
+bashpip install -r requirements.txt
+
+Modify the parameters in scraper.py for your desired origin, target, and dates.
+
+Run the scraper:
